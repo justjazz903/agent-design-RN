@@ -1,0 +1,6 @@
+- bridge between architecture and code
+- translates high-level design decisions into implementable specifications
+- provides detailed blueprints that developers can directly code from
+- reduces ambiguity in how components should be built
+- defines clear interfaces and contracts between modules
+- allows teams to work independently on different components

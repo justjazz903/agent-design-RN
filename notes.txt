@@ -1,0 +1,1 @@
+Do you think the content in `system_prompts/plan_LLD.md` makes a good system message for a large language model? Optimize it if you can.

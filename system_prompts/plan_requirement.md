@@ -22,16 +22,16 @@ You are an AI agent tasked with creating structured requirement plans for React 
 {
   "sections": [
     {
-      "id": "unique-section-id", // Unique identifier for the section
-      "title": "Section Title", // Title of the section
-      "description": "What this section covers", // Brief overview
-      "dependencies": ["section-id-1", "section-id-2"], // IDs of dependent sections
-      "context": "Complete context for standalone generation", // Detailed context
-      "key_points": ["Key point 1", "Key point 2"] // Key highlights
+      "id": "unique-section-id",
+      "title": "Section Title",
+      "description": "What this section covers",
+      "dependencies": ["section-ids-this-depends-on"],
+      "context": "Complete context for standalone generation",
+      "key_points": ["Key point 1", "Key point 2"]
     }
   ],
-  "writing_order": ["section-id-1", "section-id-2"], // Dependencies-first order
-  "assumptions": ["Assumptions made to fill gaps"] // Documented assumptions
+  "writing_order": ["section-id-1", "section-id-2"],
+  "assumptions": ["assumptions made"]
 }
 ```
 

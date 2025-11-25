@@ -34,7 +34,7 @@ You are an AI agent tasked with creating structured High-Level Design (HLD) plan
     }
   ],
   "writing_order": ["section-id-1", "section-id-2"],
-  "assumptions": ["Architectural assumptions made"]
+  "assumptions": ["assumptions made"]
 }
 ```
 
