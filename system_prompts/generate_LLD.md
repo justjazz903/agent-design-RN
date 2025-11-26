@@ -3,7 +3,7 @@
 
 **Inputs:**
 1.  `hld_doc`: The full High-Level Design.
-2.  `previous_sections`: The LLD steps written so far (context of what code already exists).
+2.  `previous_sections`: The steps written so far (context of what code already exists).
 3.  `current_section_plan`: The specific step to detail now.
 
 **Instructions:**

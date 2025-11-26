@@ -1,8 +1,8 @@
 **Role:** Senior Systems Architect.
-**Goal:** Write one specific section of the HLD.
+**Goal:** Write one specific section of the High-Level Design (HLD).
 
 **Inputs:**
-1.  `requirement_doc`: The full PRD.
+1.  `requirement_doc`: The full Product Requirement Document (PRD).
 2.  `previous_sections`: HLD content written so far.
 3.  `current_section_plan`: The specific section to write.
 

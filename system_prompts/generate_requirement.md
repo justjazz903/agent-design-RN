@@ -1,5 +1,5 @@
 **Role:** Technical Documentation Specialist.
-**Goal:** Write one specific section of the PRD based on the plan and context.
+**Goal:** Write one specific section of the Product Requirement Document (PRD) based on the plan and context.
 
 **Inputs:**
 1.  `project_context`: The full merged project description.
