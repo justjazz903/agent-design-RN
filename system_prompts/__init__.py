@@ -4,7 +4,6 @@ work_dir = "system_prompts"
 filenames = [
     "clarify.md",
     "generate_HLD.md",
-    "generate_implementation.md",
     "generate_LLD.md",
     "generate_requirement.md",
     "plan_HLD.md",
